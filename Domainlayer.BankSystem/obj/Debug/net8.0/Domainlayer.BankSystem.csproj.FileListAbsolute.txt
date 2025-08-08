@@ -1,0 +1,4 @@
+D:\BankSystem\BankSystem\Domainlayer.BankSystem\obj\Debug\net8.0\Domainlayer.BankSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\BankSystem\BankSystem\Domainlayer.BankSystem\obj\Debug\net8.0\Domainlayer.BankSystem.AssemblyInfoInputs.cache
+D:\BankSystem\BankSystem\Domainlayer.BankSystem\obj\Debug\net8.0\Domainlayer.BankSystem.AssemblyInfo.cs
+D:\BankSystem\BankSystem\Domainlayer.BankSystem\obj\Debug\net8.0\Domainlayer.BankSystem.csproj.CoreCompileInputs.cache
